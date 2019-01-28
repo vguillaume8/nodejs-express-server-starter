@@ -12,4 +12,4 @@ Comes equipped with:
 2. Run npm install inside its root folder.
 
 ## Client side for this project
-To test this project using browser I implemented the client side of this project which is in react and redux. The blog for that could be found here --client side repo will go here
+To test this project using browser I implemented the client in react, the code for the login page can be found here: https://github.com/vguillaume8/react-user-authentication-login 
